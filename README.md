@@ -92,5 +92,4 @@ This analysis provides valuable insights into Netflix's movie catalog, highlight
 ## Contact
 For any queries or contributions, feel free to reach out:
 - **Email:** grvsnr087@gmail.com
-- **GitHub:** 
 
